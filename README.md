@@ -56,11 +56,3 @@ Ao plotarmos o retorno cumulativo no conjunto de Teste Cego, identificamos o com
 Este projeto prova na prática a premissa da **Hipótese dos Mercados Eficientes**. Redes Neurais profundas (como Transformers) não resolvem a estocasticidade do mercado apenas jogando poder computacional no problema; pelo contrário, elas amplificam o erro ao decorar o ruído.
 
 O uso de **State Space Models**, inspirados na teoria de controle, representa o caminho correto para a modelagem financeira quantitativa quantitativa. O SSM atinge o estado da arte com uma fração ínfima do custo computacional, mitigando o ruído local e capturando a causalidade da série temporal.
-
----
-
-## 🚀 Como reproduzir este experimento
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/ssm-vs-transformer-finance.git](https://github.com/SEU-USUARIO/ssm-vs-transformer-finance.git)
